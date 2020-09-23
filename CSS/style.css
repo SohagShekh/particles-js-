@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    overflow-x: hidden;
+    background: #000;
+}
+
+#particles-js {
+    background-image: url(../black.jpg);
+    background-size: cover;
+    height: 670px;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    word-spacing: 10px;
+    font-size: 40px;
+}
+
+.hh1 {
+    margin-top: -25%;
+}
